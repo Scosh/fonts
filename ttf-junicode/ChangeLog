@@ -1,0 +1,97 @@
+2012-12-27  Peter Baker  <peter@hengest>
+
+	* Junicode*: ss17 now used for linguistic alternates. Regularized
+	underline position and thickness. Added uni0294.alt, accessible
+	via ss17. theta1 is now present in all faces. anchor added for
+	scaron.
+
+	* Junicode-Italic, Junicode-Regular: Number Forms range now
+	complete and up-to-date.
+
+	* Junicode-Italic: subs lookup added. Roman numbers in Number
+	Forms range accessible via dlig.
+
+	* Junicode-BoldItalic: below-char anchors added for Basic
+	Latin. uni330 (combining tilde below) added.
+
+	* Junicode-Bold: more below-char anchors added in Basic
+	Latin. uni330 (combining tilde below) added.
+
+2012-11-17  Peter Baker  <peter@hengest>
+
+	* Junicode*: f_f ligature now behaves like f when vowel with
+	diacritic follows. -f option for ttfautohint forces hinting of all
+	characters in the font. Kerning of f-ligatures corrected. Common
+	ligatures moved to unencoded slots (references left behind for
+	backward compatibility), improving searchability in PDF
+	files. Metrics slightly changed to address Windows clipping
+	problems.
+
+	* Junicode-Bold, Junicode-Regular: Small caps added for some base
+	letter + diacritic combos.
+
+	* Junicode-Regular: Fixups of Greek outlines. digamma, koppa, Cap
+	stigma added. Two more ligatures added from the Foulis-Wilson
+	specimen.
+
+	* Junicode-Italic: Several cap swashes added: A, J, D, Q, AE
+	(these are used in Hickes's Thesaurus). k_i, s_t ligatures added.
+
+2012-04-08  Peter Baker  <peter@hengest>
+
+	* Junicode-Regular: All ligatures and stylistic alternates found
+	in the Foulis Homer have been added in the regular face: these are
+	accessed via hlig and salt. It may be necessary to set the script
+	explicitly to Greek to access these Greek features. The style of
+	rho used in the Foulis Homer has been made the default.
+
+2012-04-01  Peter Baker  <peter@hengest>
+
+	* Junicode-Regular, Junicode-Italic, Junicode-Bold,
+	Junicode-BoldItalic: Gothic now in all four faces. Original Gothic
+	moved to Bold; Gothic in Regular harmonizes with small caps;
+	skewed versions in Italic and BoldItalic.
+	* Junicode.tex: revised Gothic specimen; added note on use of mgrk
+	to get IPA shapes of beta and theta.
+
+2012-03-27  Peter Baker  <peter@hengest>
+
+	* Junicode-Regular: Added Gothic range; added lookups ss19
+	(Latin-to-Gothic tranliteration) and ss20 (Gothic-to-Latin
+	transliteration).
+
+2012-03-07  Peter Baker  <peter@hengest>
+
+	* Junicode-Bold, Junicode-Italic, Junicode-BoldItalic: Swashes
+	(for Middle English) for all 4 faces
+	* All: Improvements for Turkish (including dotted small-cap
+	i). These should be automatic via locl.
+	* All: Improved shape of dcaron, tcaron, lcaron (with kerning) for
+	Eastern European languages
+	* Junicode-Bold: small caps for bold face
+	* Junicode-Bold, Junicode-BoldItalic: added capital Eszett, U+1E9E
+	* Junicode-Regular, Junicode-Bold: small cap Eszett when c2sc is
+	applied to U+1E9E
+	* Junicode-Regular, Junicode-Italic, Junicode-Bold: IPA shapes of
+	beta, theta available at U+701, U+702 (and alternative omega in
+	regular at U+703). Preferred method of accessing these is still
+	via standard beta and theta + mgrk
+	* All: arrows at U+2190 - U+2193; emptyset at U+2205
+	* All: f.alt accessible via salt
+	* All: kern f + exclam
+	* All: obsolete MUFI code points removed; these codes may be reused.
+	* All: minimal Panose values
+	* All: additional small caps for Eastern European languages
+	* All: additional small caps for Turkish
+	* Junicode-Bold, Junicode-Italic, Junicode-BoldItalic: more MUFI
+	characters here and there
+	* Junicode-Regular, Junicode-Italic: some filling in of Latin
+	Extended B
+	* Junicode-Regular, Junicode-Italic: deleted s03 lookup
+	* Junicode-Regular: A number of Fleurons in retired MUFI code
+	points in the PUA
+	* Junicode-Regular: continuing to add Greek historic
+	ligatures. Try omicron + upsilon, epsilon + iota, alpha + iota,
+	alpha + upsilon, with various accents.
+	* Junicode-Regular: reordered GPOS kern lookups to fix a problem
+	in Scribus
