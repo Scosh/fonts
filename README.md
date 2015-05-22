@@ -1,2 +1,2 @@
 # fonts
-My awesome personell fonts
+My awesome *personnel* fonts.
