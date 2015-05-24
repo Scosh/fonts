@@ -5,10 +5,13 @@
 
 # At this moment it simply creates a symbolic link to the font-folder
 
+installDir=/usr/share/fonts/git
+
 install: link update-cache
 
 link:
-	sudo ln -s $(shell pwd) /usr/share/fonts/git
+	sudo rm -f $(installDir)
+	sudo ln -s $(shell pwd) $(installDir)
 
 update-cache:
 	sudo fc-cache -vf
