@@ -11,4 +11,4 @@ Thanks to my friend [7bitHero](https://github.com/7bitHero) this repo includes a
 - scosh: *curation*
 - 7bitHero: *coding*
 
-I do not claim intellectual ownership of any of this typefaces, I am simply a humble collector and type lover, flabbergasted by the craftsmanship and hard work these wonderful type designers have put into their freely available work. Please refer to the individual fonts for licensing information.
+To be clear: I did not create any of these typefaces, I am simply a humble collector and type lover, flabbergasted by the craftsmanship and hard work all these wonderful type designers have put into their freely available work. Please refer to the individual fonts for licensing information.
