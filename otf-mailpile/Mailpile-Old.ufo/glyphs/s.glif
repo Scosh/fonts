@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s" format="1">
+  <advance width="916"/>
+  <unicode hex="0073"/>
+  <note>
+    ### RoboToDo ###
+    
+    ### TODO:
+    Make Overshot &amp; Underhang match
+    ###
+    
+    #####
+  </note>
+  <outline>
+    <contour>
+      <point x="393" y="641" type="qcurve"/>
+      <point x="352" y="664"/>
+      <point x="285" y="708"/>
+      <point x="254" y="737" type="qcurve" smooth="yes"/>
+      <point x="174" y="811"/>
+      <point x="297" y="995"/>
+      <point x="461" y="995" type="qcurve" smooth="yes"/>
+      <point x="603" y="995"/>
+      <point x="688" y="937"/>
+      <point x="683" y="854" type="qcurve"/>
+      <point x="811" y="854" type="line"/>
+      <point x="827" y="993"/>
+      <point x="634" y="1111"/>
+      <point x="455" y="1111" type="qcurve" smooth="yes"/>
+      <point x="213" y="1111"/>
+      <point x="35" y="808"/>
+      <point x="126" y="674" type="qcurve"/>
+      <point x="189" y="607"/>
+      <point x="398" y="498"/>
+      <point x="492" y="458" type="qcurve"/>
+      <point x="552" y="431"/>
+      <point x="651" y="381"/>
+      <point x="678" y="353" type="qcurve"/>
+      <point x="743" y="262"/>
+      <point x="639" y="95"/>
+      <point x="467" y="95" type="qcurve" smooth="yes"/>
+      <point x="368" y="95"/>
+      <point x="191" y="217"/>
+      <point x="163" y="338" type="qcurve"/>
+      <point x="40" y="304" type="line"/>
+      <point x="80" y="161"/>
+      <point x="290" y="-25"/>
+      <point x="471" y="-25" type="qcurve" smooth="yes"/>
+      <point x="623" y="-25"/>
+      <point x="843" y="135"/>
+      <point x="843" y="262" type="qcurve" smooth="yes"/>
+      <point x="843" y="434"/>
+      <point x="439" y="613"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

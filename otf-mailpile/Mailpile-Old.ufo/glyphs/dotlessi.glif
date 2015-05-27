@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="690"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="410" y="1108" type="qcurve" smooth="yes"/>
+      <point x="410" y="251" type="line" smooth="yes"/>
+      <point x="410" y="195" name="inserted"/>
+      <point x="455" y="137"/>
+      <point x="500" y="137" type="qcurve"/>
+      <point x="605" y="137" type="line"/>
+      <point x="605" y="-9" type="line"/>
+      <point x="432" y="-9" type="line"/>
+      <point x="341" y="-9" name="inserted"/>
+      <point x="250" y="107"/>
+      <point x="250" y="223" type="qcurve" smooth="yes"/>
+      <point x="250" y="1049" type="line"/>
+      <point x="127" y="1051" type="line"/>
+      <point x="127" y="1171" type="line"/>
+      <point x="348" y="1171" type="line" smooth="yes"/>
+      <point x="379.0" y="1171.0" name="inserted"/>
+      <point x="410.0" y="1139.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

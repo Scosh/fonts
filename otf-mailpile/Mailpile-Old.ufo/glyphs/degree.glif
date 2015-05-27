@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="895"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="78" y="1124" type="qcurve" smooth="yes"/>
+      <point x="78" y="1315"/>
+      <point x="264" y="1518"/>
+      <point x="438" y="1518" type="qcurve" smooth="yes"/>
+      <point x="612" y="1518"/>
+      <point x="817" y="1300"/>
+      <point x="817" y="1110" type="qcurve" smooth="yes"/>
+      <point x="817" y="924"/>
+      <point x="627" y="719"/>
+      <point x="453" y="719" type="qcurve" smooth="yes"/>
+      <point x="367" y="719"/>
+      <point x="227" y="776"/>
+      <point x="179.0" y="828.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="131" y="881"/>
+      <point x="78" y="1032"/>
+    </contour>
+    <contour>
+      <point x="446" y="821" type="qcurve" smooth="yes"/>
+      <point x="564.0" y="821.0" name="inserted"/>
+      <point x="682.0" y="969.5"/>
+      <point x="682" y="1118" type="qcurve" smooth="yes"/>
+      <point x="682" y="1247"/>
+      <point x="553" y="1415"/>
+      <point x="442" y="1415" type="qcurve" smooth="yes"/>
+      <point x="332" y="1415"/>
+      <point x="211" y="1262"/>
+      <point x="211" y="1122" type="qcurve" smooth="yes"/>
+      <point x="211" y="981"/>
+      <point x="342" y="821"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

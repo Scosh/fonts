@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1577</integer>
+	<key>capHeight</key>
+	<integer>1495</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2013, Mailpile (http://mailpile.is), with Reserved Font Name 'Mailpile'</string>
+	<key>descender</key>
+	<integer>-477</integer>
+	<key>familyName</key>
+	<string>Mailpile</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>note</key>
+	<string>### RoboToDo ###
+
+### TODO:
+Normalize stems (vertical width) of lowercase chars match (138)
+###
+
+#####</string>
+	<key>openTypeHeadCreated</key>
+	<string>2013/05/29 14:44:17</string>
+	<key>openTypeHeadFlags</key>
+	<array>
+		<integer>0</integer>
+		<integer>3</integer>
+		<integer>4</integer>
+	</array>
+	<key>openTypeHeadLowestRecPPEM</key>
+	<integer>8</integer>
+	<key>openTypeHheaAscender</key>
+	<integer>2030</integer>
+	<key>openTypeHheaCaretOffset</key>
+	<integer>0</integer>
+	<key>openTypeHheaCaretSlopeRise</key>
+	<integer>1</integer>
+	<key>openTypeHheaCaretSlopeRun</key>
+	<integer>0</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-498</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDescription</key>
+	<string>Fauna is a modern typeface with low contrast strokes and soft terminals that form traditional serifs. Its structure is soft and slightly condensed. It reads clearly in paragraph composition and looks beautiful in headlines.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Brennan Novak</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://brennannovak.com</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Mailpile</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://mailpile.is</string>
+	<key>openTypeNameUniqueID</key>
+	<string>Fauna One:Version 1.001</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.001 September 3, 2013</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>4</integer>
+		<integer>7</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>5</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>4</integer>
+	</array>
+	<key>openTypeOS2Selection</key>
+	<array>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>512</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>102</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>1331</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>154</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>1229</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>1331</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>717</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>1229</integer>
+	<key>openTypeOS2Type</key>
+	<array>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1577</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-477</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>115</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>5</integer>
+		<integer>34</integer>
+		<integer>33</integer>
+		<integer>35</integer>
+		<integer>65</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>TIPO</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>2030</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>498</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptIsFixedPitch</key>
+	<false/>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-154</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>102</integer>
+	<key>styleMapFamilyName</key>
+	<string>Mailpile</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Light</string>
+	<key>trademark</key>
+	<string>Mailpile is a trademark of Mailpile ehf.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>1084</integer>
+</dict>
+</plist>

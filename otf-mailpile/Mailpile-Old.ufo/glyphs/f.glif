@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="1">
+  <advance width="762"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="414" y="0" type="qcurve"/>
+      <point x="280" y="0" type="line"/>
+      <point x="280" y="0"/>
+      <point x="280" y="948"/>
+      <point x="280" y="948" type="qcurve"/>
+      <point x="78" y="948" type="line"/>
+      <point x="78" y="1084" type="line"/>
+      <point x="279" y="1084" type="line"/>
+      <point x="279" y="1299"/>
+      <point x="402" y="1495"/>
+      <point x="609" y="1495" type="qcurve"/>
+      <point x="684" y="1495" type="line"/>
+      <point x="684" y="1358" type="line"/>
+      <point x="602" y="1358" type="line"/>
+      <point x="522" y="1358" name="inserted"/>
+      <point x="414" y="1279"/>
+      <point x="414" y="1084" type="qcurve"/>
+      <point x="671" y="1084" type="line"/>
+      <point x="671" y="948" type="line"/>
+      <point x="414" y="948" type="line"/>
+      <point x="414" y="948"/>
+      <point x="414" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

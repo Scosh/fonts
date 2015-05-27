@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="556"/>
+  <unicode hex="006C"/>
+  <note>
+    ### RoboToDo ###
+    
+    ### TODO:
+    Make Underhang -10, -6, or -4 and hieght of serif match "l, i, j, t"
+    ###
+    
+    #####
+  </note>
+  <outline>
+    <contour>
+      <point x="190" y="210" type="qcurve"/>
+      <point x="190" y="1371" type="line"/>
+      <point x="60" y="1371" type="line"/>
+      <point x="60" y="1495" type="line"/>
+      <point x="267" y="1495" type="line" smooth="yes"/>
+      <point x="298" y="1495" name="inserted"/>
+      <point x="328" y="1463"/>
+      <point x="328" y="1431" type="qcurve"/>
+      <point x="328" y="210" type="line"/>
+      <point x="328" y="153" name="inserted"/>
+      <point x="372" y="124"/>
+      <point x="416" y="124" type="qcurve"/>
+      <point x="506" y="124" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="264" y="0" name="inserted"/>
+      <point x="190" y="84"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

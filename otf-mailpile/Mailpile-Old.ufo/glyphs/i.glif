@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="595"/>
+  <unicode hex="0069"/>
+  <note>
+    ### RoboToDo ###
+    
+    ### TODO:
+    Make Underhang -10, -6, or -4 and hieght of serif match "l, i, j, t"
+    ###
+    
+    #####
+  </note>
+  <outline>
+    <contour>
+      <point x="282" y="1286" type="qcurve" smooth="yes"/>
+      <point x="244" y="1286"/>
+      <point x="184" y="1343"/>
+      <point x="184" y="1381" type="qcurve" smooth="yes"/>
+      <point x="184" y="1421"/>
+      <point x="244" y="1480"/>
+      <point x="282" y="1480" type="qcurve" smooth="yes"/>
+      <point x="322" y="1480"/>
+      <point x="378" y="1421"/>
+      <point x="378" y="1381" type="qcurve" smooth="yes"/>
+      <point x="378" y="1343"/>
+      <point x="322" y="1286"/>
+    </contour>
+    <contour>
+      <point x="387" y="0" type="line"/>
+      <point x="304" y="0" name="inserted"/>
+      <point x="223" y="94"/>
+      <point x="223" y="206" type="qcurve"/>
+      <point x="223.0" y="206.0"/>
+      <point x="223.0" y="960.0"/>
+      <point x="223" y="960" type="qcurve"/>
+      <point x="93" y="960" type="line"/>
+      <point x="93" y="1084" type="line"/>
+      <point x="296" y="1084" type="line" smooth="yes"/>
+      <point x="327" y="1084" name="inserted"/>
+      <point x="361" y="1050"/>
+      <point x="361" y="1018" type="qcurve"/>
+      <point x="361" y="216" type="line"/>
+      <point x="361" y="159" name="inserted"/>
+      <point x="402" y="124"/>
+      <point x="446" y="124" type="qcurve"/>
+      <point x="516" y="124" type="line"/>
+      <point x="516" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
