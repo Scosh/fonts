@@ -5,7 +5,7 @@ These guys and gals are hosted here on Github primarilly for my conveniece. Howe
 The fonts are labeled according to the following convention: `format-foundry-typeface`
 
 ## Automation
-Thanks to my friend [7bitHero](https://github.com/7bitHero) this repo includes a handy makefile that automates and synchronizes these files. This is part of a larger [project](https://github.com/7bitHero/dotfiles) he's currently working on that aims to make sharing and maintaining dotfiles easier on Arch Linux.
+Thanks to my friend [7bitHero](https://github.com/7bitHero) this repo includes a handy makefile that automates the installation and synchronization of these files. This is part of a larger [project](https://github.com/7bitHero/dotfiles) he's currently working on that aims to make sharing and maintaining dotfiles easier on Arch Linux.
 
 ## Credits:
 - scosh: *curation*
