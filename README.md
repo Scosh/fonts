@@ -1,7 +1,7 @@
 # The Fonts
 These guys and gals are hosted here on Github primarily for my convenience. However, perhaps you too dear internet person can benefit from this repository's existence: this hand-picked selection of typefaces promises to bestow upon your system both open source classics like the **Liberation** and **Deja Vu** fonts as well as the hip and fresh kids everyone is talking about like Mozilla's **Fira**, Adobe's **Source Sans Pro** and Intel's **Clear Sans**. 
 
-There's also a lot of obscurer stuff to be found here too, so why don't you take a gander and see if this pack is to your liking. The mission statement here is to create a comprehensive but quality before quantity oriented collection of open source typefaces that can keep growing and expanding. This project is still in it's infancy, so if you do stumble upon this, please bear in mind that I'm busy working on making it nice but it isn't quite where I want it to be yet.
+There's also a lot of obscurer stuff to be found here too, so why don't you take a gander and see if this pack is to your liking. The mission statement here is to create a comprehensive but quality before quantity oriented collection of open source typefaces that can keep growing and expanding. This project is still in it's infancy, so if you do stumble upon this please bear in mind, that I'm busy working on making it nice — it just isn't quite where I'd like it to be yet.
 
 ## Naming
 The fonts are labelled according to the following convention: `typeface-foundry-format`.
