@@ -3,6 +3,7 @@
 - design header image: "The Fantastic Font Pack of Open Source Goodness"
 - research foundry names again, re-evaluate labelling method
 - come up with an efficient, good looking and consistent way of adding source information and specimens
+- remove duplicate font files (like having both otf and ttf versions of a fonts in a family)
 
 ### Doing
 - include specimen images & SOURCE.MD readmes
