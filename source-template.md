@@ -12,6 +12,8 @@ The specimen should contain:
 - Numbers
 - Special Characters
 - a pangram
+- think about what characters/aspects really interest a typographer, things like the presence of em and en dashes for instance
+- how much effort is sensible for this project? Which parts should be outsourced?
 
 ## Source
 insert source link
