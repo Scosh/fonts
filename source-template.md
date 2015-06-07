@@ -6,12 +6,12 @@
 
 Description?
 
-![specimen]()
+![specimen](https://github.com/Scosh/fonts/blob/master/typographic-specimen-prototype.png)
 The specimen should contain:
-- Latin Alphabet (for now)
+- the Latin Alphabet (for now)
 - Numbers
 - Special Characters
-- Sample sentences (*The Quick Brown Fox* etc.)
+- a pangram
 
 ## Source
 insert source link
