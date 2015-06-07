@@ -1,9 +1,17 @@
-![spirited away!](http://i.imgur.com/wAM9oWL.gif)
+![cover](http://i.imgur.com/wAM9oWL.gif)
+*image [credit]()*
+
 # Font Name
-Template Serif
+*by* Foundry/Designer for Commissioner
 
-### Designer
-Templator
+Description?
 
-### Source
-the interwebs
+![specimen]()
+The specimen should contain:
+- Latin Alphabet (for now)
+- Numbers
+- Special Characters
+- Sample sentences (*The Quick Brown Fox* etc.)
+
+## Source
+insert source link
