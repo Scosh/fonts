@@ -4,6 +4,7 @@
 - research foundry names again, re-evaluate labelling method
 - come up with an efficient, good looking and consistent way of adding source information and specimens
 - remove duplicate font files (like having both otf and ttf versions of a fonts in a family)
+- set up (ideally automatically) updating git repositories for viable fonts in the master branch, so font files are as recent as possible
 
 ### Doing
 - include specimen images & SOURCE.MD readmes
