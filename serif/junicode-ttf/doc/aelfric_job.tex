@@ -1,0 +1,74 @@
+%&program=xelatex
+%&encoding=UTF-8 Unicode
+
+\documentclass[letterpaper]{article}
+
+\usepackage{fontspec}
+
+\setromanfont{Junicode}
+
+\newICUfeature{StyleSet}{1}{+ss01}
+\newICUfeature{StyleSet}{2}{+ss02,-liga}
+\newICUfeature{StyleSet}{3}{+ss03}
+\newICUfeature{LigType}{disc}{+dlig}
+\newICUfeature{LigType}{hist}{+hlig}
+\newICUfeature{IPAMode}{on}{+mgrk,-liga}
+\newICUfeature{Compose}{off}{-ccmp}
+\newICUfeature{Contextual}{on}{+calt}
+\newICUfeature{Swash}{on}{+swsh}
+\newICUfeature{Fractions}{on}{+frac}
+\newICUfeature{Superscripts}{on}{+sups}
+\newICUfeature{Subscripts}{on}{+subs}
+
+\frenchspacing
+
+\begin{document}
+
+\section*{Old English with Junicode}
+
+\linespread{1.1}\fontspec[Contextual=on]{Junicode}\Large Sum wer wæs ġeseten on þām lande þe is ġehāten Hus; his nama wæs Iob.  Se wer wæs swīðe bilewite and rihtwīs and ondrǣdende God and forbūgende yfel.  Him wǣron ācennede \mbox{seofan} suna and ðrēo dohtra.  Hē hæfde seofon ðūsend scēapa and ðrēo ðūsend olfenda, fīf hund ġetȳmu oxena and fīf hund assan and ormǣte miċelne hīred.
+
+Iob cwæð, “Iċ ālȳsde hrȳmende þearfan, and ðām stēopbearne þe būton fultume wæs iċ ġehēolp, and wydewan \mbox{heortan} iċ ġefrēfrode.  Iċ wæs ymbscrȳd mid rihtwīsnysse.  Iċ wæs blind\-um men ēage and healtum fōt and þearfena fæder.  Of flȳsum mīnra scēapa wǣron ġehlȳwde ðearfena sīdan, and iċ ðearfum ne forwyrnde þæs ðe hī ġyrndon, ne iċ ne ǣt āna mīnne hlāf būton stēopbearne, ne iċ ne blissode on mīnum meniġfealdum welum.  Ne fæġnode iċ on mīnes fēondes hryre, ne læġ ælðēodiġ man wiðūtan mīnum heġum, ac mīn duru ġeopenode symle weġfērendum.  Ne behȳdde iċ mīne synna, ne iċ on mīnum bōsme ne bedīġlode mīne unrihtwīsnysse.”
+
+Efne ðā ġȳt cōm se fēorða ǣrendraca inn and cwæð, “Ðīne suna and ðīne dohtra ǣton and druncon mid heora yldestan brēðer, and efne þā fǣrlīċe swēġde swīðliċ wind of ðām wēstene and tōslōh þæt hūs æt ðām fēower hwemmum þæt hit hrēosende ðīne bearn ofþrihte and ācwealde. Iċ āna ætbærst þæt iċ ðē þis cȳdde.”
+
+“Fel sceal for felle, and swā hwæt swā man hæfð hē sylð for his līfe.  Āstreċe nū ðīne hand and hrepa his bān and his flǣsc; ðonne ġesīhst ðū þæt hē ðē on ansȳne wiriġð.”
+
+\pagebreak
+
+\itshape\noindent Sum wer wæs ġeseten on þām lande þe is ġehāten Hus; his nama wæs Iob.  Se wer wæs swīðe bilewite and rihtwīs and ondrǣdende God and forbūgende yfel.  Him wǣron ācennede \mbox{seofan} suna and ðrēo dohtra.  Hē hæfde seofon ðūsend scēapa and ðrēo ðūsend olfenda, fīf hund ġetȳmu oxena and fīf hund assan and ormǣte miċelne hīred.
+
+Iob cwæð, “Iċ ālȳsde hrȳmende þearfan, and ðām stēopbearne þe būton fultume wæs iċ ġehēolp, and wydewan \mbox{heortan} iċ ġefrēfrode.  Iċ wæs ymbscrȳd mid rihtwīsnysse.  Iċ wæs blind\-um men ēage and healtum fōt and þearfena fæder.  Of flȳsum mīnra scēapa wǣron ġehlȳwde ðearfena sīdan, and iċ ðearfum ne forwyrnde þæs ðe hī ġyrndon, ne iċ ne ǣt āna mīnne hlāf būton stēopbearne, ne iċ ne blissode on mīnum meniġfealdum welum.  Ne fæġnode iċ on mīnes fēondes hryre, ne læġ ælðēodiġ man wiðūtan mīnum heġum, ac mīn duru ġeopenode symle weġfērendum.  Ne behȳdde iċ mīne synna, ne iċ on mīnum bōsme ne bedīġlode mīne unrihtwīsnysse.”
+
+Efne ðā ġȳt cōm se fēorða ǣrendraca inn and cwæð, “Ðīne suna and ðīne dohtra ǣton and druncon mid heora yldestan brēðer, and efne þā fǣrlīċe swēġde swīðliċ wind of ðām wēstene and tōslōh þæt hūs æt ðām fēower hwemmum þæt hit hrēosende ðīne bearn ofþrihte and ācwealde. Iċ āna ætbærst þæt iċ ðē þis cȳdde.”
+
+“Fel sceal for felle, and swā hwæt swā man hæfð hē sylð for his līfe.  Āstreċe nū ðīne hand and hrepa his bān and his flǣsc; ðonne ġesīhst ðū þæt hē ðē on ansȳne wiriġð.”
+
+\pagebreak
+
+\upshape\bfseries\noindent Sum wer wæs ġeseten on þām lande þe is ġehāten Hus; his nama wæs Iob.  Se wer wæs swīðe bilewite and rihtwīs and ondrǣdende God and forbūgende yfel.  Him wǣron ācennede \mbox{seofan} suna and ðrēo dohtra.  Hē hæfde seofon ðūsend scēapa and ðrēo ðūsend olfenda, fīf hund ġetȳmu oxena and fīf hund assan and ormǣte miċelne hīred.
+
+Iob cwæð, “Iċ ālȳsde hrȳmende þearfan, and ðām stēopbearne þe būton fultume wæs iċ ġehēolp, and wydewan heort\-an iċ ġefrēfrode.  Iċ wæs ymbscrȳd mid rihtwīsnysse.  Iċ wæs blind\-um men ēage and healtum fōt and þearfena fæder.  Of flȳsum mīnra scēapa wǣron ġehlȳwde ðearfena sīdan, and iċ ðearfum ne forwyrnde þæs ðe hī ġyrndon, ne iċ ne ǣt āna mīnne hlāf būton stēopbearne, ne iċ ne blissode on mīnum meniġfealdum welum.  Ne fæġnode iċ on mīnes fēondes hryre, ne læġ ælðēodiġ man wiðūtan mīnum heġum, ac mīn duru ġeopenode symle weġfērendum.  Ne behȳdde iċ mīne synna, ne iċ on mīnum bōsme ne bedīġlode mīne unrihtwīsnysse.”
+
+Efne ðā ġȳt cōm se fēorða ǣrendraca inn and cwæð, “Ðīne suna and ðīne dohtra ǣton and druncon mid heora yldestan brēðer, and efne þā fǣrlīċe swēġde swīðliċ wind of ðām wēst\-ene and tōslōh þæt hūs æt ðām fēower hwemmum þæt hit hrēosende ðīne bearn ofþrihte and ācwealde. Iċ āna ætbærst þæt iċ ðē þis cȳdde.”
+
+“Fel sceal for felle, and swā hwæt swā man hæfð hē sylð for his līfe.  Āstreċe nū ðīne hand and hrepa his bān and his flǣsc; ðonne ġesīhst ðū þæt hē ðē on ansȳne wiriġð.”
+
+\pagebreak
+
+\noindent\itshape Sum wer wæs ġeseten on þām lande þe is ġehāten Hus; his nama wæs Iob.  Se wer wæs swīðe bilewite and rihtwīs and ondrǣdende God and forbūgende yfel.  Him wǣron ācennede \mbox{seofan} suna and ðrēo dohtra.  Hē hæfde seofon ðūsend scēapa and ðrēo ðūsend olfenda, fīf hund ġetȳmu oxena and fīf hund assan and ormǣte miċelne hīred.
+
+Iob cwæð, “Iċ ālȳsde hrȳmende þearfan, and ðām stēopbearne þe būton fultume wæs iċ ġehēolp, and wydewan heort\-an iċ ġefrēfrode.  Iċ wæs ymbscrȳd mid rihtwīsnysse.  Iċ wæs blind\-um men ēage and healtum fōt and þearfena fæder.  Of flȳsum mīnra scēapa wǣron ġehlȳwde ðearfena sīdan, and iċ ðearfum ne forwyrnde þæs ðe hī ġyrndon, ne iċ ne ǣt āna mīnne hlāf būton stēopbearne, ne iċ ne blissode on mīnum meniġfealdum welum.  Ne fæġnode iċ on mīnes fēondes hryre, ne læġ ælðēodiġ man wiðūtan mīnum heġum, ac mīn duru ġeopenode symle weġ\-fēr\-end\-um.  Ne behȳdde iċ mīne synna, ne iċ on mīnum bōsme ne bedīġlode mīne unrihtwīsnysse.”
+
+Efne ðā ġȳt cōm se fēorða ǣrendraca inn and cwæð, “Ðīne suna and ðīne dohtra ǣton and druncon mid heora yldestan brēðer, and efne þā fǣrlīċe swēġde swīðliċ wind of ðām wēst\-ene and tōslōh þæt hūs æt ðām fēower hwemmum þæt hit hrēosende ðīne bearn ofþrihte and ācwealde. Iċ āna ætbærst þæt iċ ðē þis cȳdde.”
+
+“Fel sceal for felle, and swā hwæt swā man hæfð hē sylð for his līfe.  Āstreċe nū ðīne hand and hrepa his bān and his flǣsc; ðonne ġesīhst ðū þæt hē ðē on ansȳne wiriġð.”
+
+\pagebreak
+
+\upshape\mdseries\small\noindent In Junicode, special attention has been paid to letter-combinations that often look
+unattractive in Old English text: these are handled by ligatures and alternate forms of f, þ and ð.
+To take fullest advantage of typographical features for Old English, make sure these OpenType
+features are enabled in your application: ccmp (Glyph Composition/Decomposition), calt
+(Contextual Alternates), liga (Standard Ligatures), kern (Horizontal Kerning).
+\end{document}

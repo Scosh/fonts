@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="782"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="164" y="1489" type="qcurve" smooth="yes"/>
+      <point x="164" y="1587"/>
+      <point x="281" y="1706"/>
+      <point x="385" y="1706" type="qcurve" smooth="yes"/>
+      <point x="492" y="1706"/>
+      <point x="621" y="1579"/>
+      <point x="621" y="1481" type="qcurve" smooth="yes"/>
+      <point x="621" y="1382"/>
+      <point x="500" y="1266"/>
+      <point x="393" y="1266" type="qcurve" smooth="yes"/>
+      <point x="289" y="1266"/>
+      <point x="164" y="1391"/>
+    </contour>
+    <contour>
+      <point x="498" y="1483" type="qcurve" smooth="yes"/>
+      <point x="498" y="1538"/>
+      <point x="436" y="1612"/>
+      <point x="387" y="1612" type="qcurve" smooth="yes"/>
+      <point x="338" y="1612"/>
+      <point x="283" y="1542"/>
+      <point x="283" y="1487" type="qcurve" smooth="yes"/>
+      <point x="283" y="1434"/>
+      <point x="342" y="1358"/>
+      <point x="391" y="1358" type="qcurve" smooth="yes"/>
+      <point x="442" y="1358"/>
+      <point x="498" y="1427"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

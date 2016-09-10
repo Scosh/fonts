@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'FantasqueSansMono-BoldItalic';
+  src: url('FantasqueSansMono-BoldItalic.eot'); /* IE 9 Compatibility Mode */
+  src: url('FantasqueSansMono-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+       url('FantasqueSansMono-BoldItalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+       url('FantasqueSansMono-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('FantasqueSansMono-BoldItalic.svg#strippedname:/home/jany/Polices/Cosmic/Sources/FantasqueSansMono-BoldItalic.sfd') format('svg'); /* Chrome < 4, Legacy iOS */
+  font-weight: Fantasque Sans Mono Bold Italic;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'FantasqueSansMono-Bold';
+  src: url('FantasqueSansMono-Bold.eot'); /* IE 9 Compatibility Mode */
+  src: url('FantasqueSansMono-Bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+       url('FantasqueSansMono-Bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+       url('FantasqueSansMono-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('FantasqueSansMono-Bold.svg#strippedname:/home/jany/Polices/Cosmic/Sources/FantasqueSansMono-Bold.sfd') format('svg'); /* Chrome < 4, Legacy iOS */
+  font-weight: Fantasque Sans Mono Bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'SPLFirstVisitorFoundSoughtXY() 607.100000 521.000000 710.000000';
+  src: url('FantasqueSansMono-RegItalic.eot'); /* IE 9 Compatibility Mode */
+  src: url('FantasqueSansMono-RegItalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+       url('FantasqueSansMono-RegItalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+       url('FantasqueSansMono-RegItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('FantasqueSansMono-RegItalic.svg#strippedname:/home/jany/Polices/Cosmic/Sources/FantasqueSansMono-RegItalic.sfd') format('svg'); /* Chrome < 4, Legacy iOS */
+  font-weight: SPLFirstVisitorFoundSoughtXY() 607.100000 841.000000 1036.000000;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'FantasqueSansMono-Regular';
+  src: url('FantasqueSansMono-Regular.eot'); /* IE 9 Compatibility Mode */
+  src: url('FantasqueSansMono-Regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+       url('FantasqueSansMono-Regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+       url('FantasqueSansMono-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('FantasqueSansMono-Regular.svg#strippedname:/home/jany/Polices/Cosmic/Sources/FantasqueSansMono-Regular.sfd') format('svg'); /* Chrome < 4, Legacy iOS */
+  font-weight: Fantasque Sans Mono Regular;
+  font-style: italic;
+}

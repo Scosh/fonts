@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="904"/>
+  <unicode hex="0072"/>
+  <note>
+    ### RoboToDo ###
+    
+    ### TODO:
+    Make Overshot match
+    ###
+    
+    #####
+  </note>
+  <outline>
+    <contour>
+      <point x="879" y="1084" type="qcurve"/>
+      <point x="879" y="960" type="line"/>
+      <point x="731" y="960"/>
+      <point x="576" y="881"/>
+      <point x="529" y="838" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="458" y="774"/>
+      <point x="383" y="643"/>
+      <point x="383" y="537" type="qcurve"/>
+      <point x="383" y="0" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="245" y="960" type="line"/>
+      <point x="115" y="960" type="line" smooth="yes"/>
+      <point x="115" y="1084" type="line"/>
+      <point x="294" y="1084" type="line" smooth="yes"/>
+      <point x="326" y="1084" name="inserted"/>
+      <point x="358" y="1053"/>
+      <point x="358" y="1021" type="qcurve" smooth="yes"/>
+      <point x="358" y="821" type="line"/>
+      <point x="384" y="875"/>
+      <point x="488" y="975"/>
+      <point x="533" y="1002" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="580" y="1030"/>
+      <point x="764" y="1084"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

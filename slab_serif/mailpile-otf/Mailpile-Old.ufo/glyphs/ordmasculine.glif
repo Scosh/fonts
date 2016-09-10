@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="834"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="78" y="1124" type="qcurve" smooth="yes"/>
+      <point x="78" y="1315"/>
+      <point x="248" y="1518"/>
+      <point x="408" y="1518" type="qcurve" smooth="yes"/>
+      <point x="567" y="1518"/>
+      <point x="756" y="1300"/>
+      <point x="756" y="1110" type="qcurve" smooth="yes"/>
+      <point x="756" y="924"/>
+      <point x="582" y="719"/>
+      <point x="422" y="719" type="qcurve" smooth="yes"/>
+      <point x="262" y="719"/>
+      <point x="78" y="938"/>
+    </contour>
+    <contour>
+      <point x="416" y="821" type="qcurve" smooth="yes"/>
+      <point x="519.5" y="821.0" name="inserted"/>
+      <point x="623.0" y="969.5"/>
+      <point x="623" y="1118" type="qcurve" smooth="yes"/>
+      <point x="623" y="1249"/>
+      <point x="510" y="1415"/>
+      <point x="412" y="1415" type="qcurve" smooth="yes"/>
+      <point x="313" y="1415"/>
+      <point x="209" y="1260"/>
+      <point x="209" y="1122" type="qcurve" smooth="yes"/>
+      <point x="209" y="981"/>
+      <point x="324" y="821"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
