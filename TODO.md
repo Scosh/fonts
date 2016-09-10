@@ -1,4 +1,5 @@
 ### To Do
+- sort through folders and add LICENSE files where necessary
 - create a separate branch of this repository without any specimen images and readmes
 - design header image: "The Fantastic Font Pack of Open Source Goodness"
 - research foundry names again, re-evaluate labelling method
@@ -12,6 +13,6 @@
 - sort out lame fonts
 
 ### Done
-- Reverse labelling convention: `typeface-foundry-format`?
+- Reverse labelling convention: `typeface-foundry-format`
 - Test makefile
 - clean project to only include open source typefaces
