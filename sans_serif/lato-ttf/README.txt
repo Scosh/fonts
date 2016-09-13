@@ -1,14 +1,14 @@
 
-Lato font family
+Lato font family (Desktop version)
 
-================
+==================================
 
-Version 2.010; Latin+Cyrillic+Greek+IPA opensource
+Version 2.015; Latin+Cyrillic+Greek+IPA opensource
 
 Created by: tyPoland Lukasz Dziedzic
-Creation year: 2014
+Creation year: 2015
 
-Copyright (c) 2010-2014 by tyPoland Lukasz Dziedzic with Reserved Font Name "Lato". Licensed under the SIL Open Font License, Version 1.1.
+Copyright (c) 2010-2015 by tyPoland Lukasz Dziedzic with Reserved Font Name "Lato". Licensed under the SIL Open Font License, Version 1.1.
 
 Lato is a trademark of tyPoland Lukasz Dziedzic.
 
@@ -28,6 +28,10 @@ This folder contains 18 font files in OpenType TT (.ttf) format. You can install
 ================
 
 REVISION LOG:
+
+# Version 2.015 (2015-08-06)
+Initial implementation of mark positioning (should work for most glyphs)
+Autohinted using ttfautohint 1.3.
 
 # Version 2.010 (2014-09-01)
 Improved some contour bugs and diacritics positioning. 
