@@ -18,7 +18,7 @@ Simply download a ZIP of this repository and throw these fonts in whatever place
 Windows and OSX usually update their font caches automagically, but for Linux it's generally good practice to perform an `fc-cache -fv` in the terminal once you're done copying the files.
 
 #### The Harder (but cooler) Way: *Sync 'Em Up!*
-If you're on Linux and fancy yourself a little more experienced, you might want to clone this repository and run the handy *Makefile* (kindly provided by [a good friend of mine](https://github.com/7bitHero)) rather than downloading the fonts conventionally. The advantage to this method is that you'll be able to easily update your local copy of the collection whenever new fonts are added. The downside is that you will obviously have to keep the cloned repository around for this to work, and, depending on how you organize your files, that may not be the way you like to roll. What the Makefile does, is create a symbolic link between the contents of the cloned repository and the installation directory (`/usr/share/fonts/git` by default), and then it updates the font cache for you.
+If you're on Linux and fancy yourself a little more experienced, you might want to clone this repository and run the handy *Makefile* (kindly provided by [a good friend of mine(https://github.com/LordSentox)) rather than downloading the fonts conventionally. The advantage to this method is that you'll be able to easily update your local copy of the collection whenever new fonts are added. The downside is that you will obviously have to keep the cloned repository around for this to work, and, depending on how you organize your files, that may not be the way you like to roll. What the Makefile does, is create a symbolic link between the contents of the cloned repository and the installation directory (`/usr/share/fonts/git` by default), and then it updates the font cache for you.
 Here's what you'll want to do if you like the sound of this:
 
 1. Clone this repository.
@@ -28,7 +28,7 @@ Here's what you'll want to do if you like the sound of this:
 After your font cache is refreshed, you should be golden! Any changes made to the cloned repo will carry over to the installation directory. Now, whenever you feel like updating you can just do a `git pull origin master` inside your local copy of the repository, and get the newest fonts. You can also easily refresh your font cache with `make update-cache`. Or you can use this set-up to create your own synced collection of fonts, make a new fork, share it around, send it to NASA — whatever, man!
 
 ## Credits and Disclaimer:
-- scosh: *curation*
-- 7bitHero: *coding*
+- [Joshua Scott | Scosh](https://github.com/Scosh): *curation*
+- [Arne Dußin | LordSentox](https://github.com/LordSentox): *coding*
 
 To be clear: I did not create any of these typefaces, I am simply a humble collector and type admirer flabbergasted by the craftsmanship and hard work all these wonderful designers have put into their freely available work. Most of the fonts are available under the [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). Please refer to the individual fonts for detailed licensing information.
