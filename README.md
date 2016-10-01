@@ -27,7 +27,7 @@ Here's what you'll want to do if you like the sound of this:
 
 After your font cache is refreshed, you should be golden! Any changes made to the cloned repo will carry over to the installation directory. Now, whenever you feel like updating you can just do a `git pull origin master` inside your local copy of the repository, and get the newest fonts. You can also easily refresh your font cache with `make update-cache`. Or you can use this set-up to create your own synced collection of fonts, make a new fork, share it around, send it to NASA — whatever, man!
 
-## Credits and Disclaimer:
+## Credits and Disclaimer
 - [Joshua Scott | Scosh](https://github.com/Scosh): *curation*
 - [Arne Dußin | LordSentox](https://github.com/LordSentox): *coding*
 
