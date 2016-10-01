@@ -8,16 +8,16 @@ To create a comprehensive but quality before quantity oriented collection of ope
 
 This project is still in it's infancy, so please bear in mind that I'm busy working on making it nice if you do happen to stumble upon this right now. It's not quite where I'd like it to be yet, but I think it's slowly getting there.
 
-### Labelling
+#### Labelling
 Currently, the fonts are grouped into 7 unique classifications using folders. Each folder within one of these category folders contains a font family, and is labelled according to the following convention: `typeface-foundry-file_format`.
 
 ## Installation and Syncing
-### The Easy Way: *Just Install 'Em*
+#### The Easy Way: *Just Install 'Em*
 Simply download a ZIP of this repository and throw these fonts in whatever place your system wants fonts to be in. On Windows that should be `C:\Windows\Fonts`, on Mac OSX [it depends](https://support.apple.com/en-us/HT201722) though somewhere in `/Library/Fonts/` is probably best, and on Linux I'd recommend `/usr/share/fonts` or `~/.local/share/fonts/` — obviously you can do something [entirely](https://wiki.ubuntu.com/Fonts) [different](https://wiki.archlinux.org/index.php/Fonts) if you want to however.
 
 Windows and OSX usually update their font caches automagically, but for Linux it's generally good practice to perform an `fc-cache -fv` in the terminal once you're done copying the files.
 
-### The Harder (but cooler) Way: *Sync 'Em Up!*
+#### The Harder (but cooler) Way: *Sync 'Em Up!*
 If you're on Linux and fancy yourself a little more experienced, you might want to clone this repository and run the handy *Makefile* (kindly provided by [a good friend of mine](https://github.com/7bitHero)) rather than downloading the fonts conventionally. The advantage to this method is that you'll be able to easily update your local copy of the collection whenever new fonts are added. The downside is that you will obviously have to keep the cloned repository around for this to work, and, depending on how you organize your files, that may not be the way you like to roll. What the Makefile does, is create a symbolic link between the contents of the cloned repository and the installation directory (`/usr/share/fonts/git` by default), and then it updates the font cache for you.
 Here's what you'll want to do if you like the sound of this:
 
