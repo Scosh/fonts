@@ -31,4 +31,4 @@ After your font cache is refreshed, you should be golden! Any changes made to th
 - [Joshua Scott | Scosh](https://github.com/Scosh): *curation*
 - [Arne Dußin | LordSentox](https://github.com/LordSentox): *coding*
 
-To be clear: I did not create any of these typefaces, I am simply a humble collector and type admirer flabbergasted by the craftsmanship and hard work all these wonderful designers have put into their freely available work. Most of the fonts are available under the [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). Please refer to the individual fonts for detailed licensing information.
+To be clear: I did not create any of these typefaces, I am simply a humble collector and type admirer amazed by the craftsmanship and hard work all these wonderful designers have put into their freely available work. Most of the fonts are available under the [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). Please refer to the individual fonts for detailed licensing information.
