@@ -9,7 +9,7 @@ To create a comprehensive but quality before quantity oriented collection of ope
 This project is still in it's infancy, so please bear in mind that I'm busy working on making it nice if you do happen to stumble upon this right now. It's not quite where I'd like it to be yet, but I think it's slowly getting there.
 
 #### Labelling
-Currently, the fonts are grouped into 7 unique classifications using folders. Each folder within one of these category folders contains a font family, and is labelled according to the following convention: `typeface-foundry-file_format`.
+Currently, the fonts are grouped into 8 unique classifications using folders. Each folder within one of these category folders contains a font family, and is labelled according to the following convention: `typeface-foundry-file_format`.
 
 ## Installation and Syncing
 #### The Easy Way: *Just Install 'Em*
