@@ -1,0 +1,46 @@
+
+  FONTLOG: Grobe Deutschmeister
+
+  --------------------------------------------
+  GrobeDeutschmeister
+  --------------------------------------------
+
+  This file provides detailed information on the Grobe 
+  Deutschmeister font Software.
+  This information should be distributed along with the Grobe 
+  Deutschmeister font and any derivative works.
+  
+  Grobe Deutschmeister Font Information
+  
+  Die Grobe Deutschmeister ist eine Frakturschrift im Stil 
+  der Neogotischen Schriften, wenn auch nicht mit der Strenge 
+  anderer Vertreter dieser in den 1920er Jahren aufgekom- 
+  menen und dem damaligen Zeitgeschmack entsprechen- den Art.
+  
+  
+  ChangeLog
+  
+  7 Sep 2014 (Christoph Haag)
+- created fontforge sources as base to work on GNU/Linux
+- added FONTLOG to .sfdir
+- Mastered Font from Fontforge SFDIR to 
+  UFO,OTF,TTF,EOT,WOFF,SVG
+  
+  4 Aug 2014 (Peter Wiegel)
+- Initial release.
+  
+  If you make modifications be sure to add your name (N), 
+  email (E), web-address (if you have one) (W) and 
+  description (D). This list is in alphabetical order.
+  
+  N: Christoph Haag
+  E: christoph@lafkon.net
+  W: www.lafkon.net
+  D: Graphic Designer & Bash Coder
+  
+  N: Peter Wiegel
+  E: wiegel@aepnet.de
+  W: www.peter-wiegel.de 
+  D: Font Maker Deluxe
+
+

@@ -1,0 +1,35 @@
+/* lingua-franca.css */
+/* Andreas Nolda 2016-10-08 */
+
+@font-face {
+  font-family: "Lingua Franca";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Lingua Franca"), local("LinguaFranca-Regular"), url(http://andreas.nolda.org/software/LinguaFranca-Regular.woff) format('woff');
+}
+@font-face {
+  font-family: "Lingua Franca";
+  font-style: italic;
+  font-weight: 400;
+  src: local("Lingua Franca Italic"), local("LinguaFranca-Italic"), url(http://andreas.nolda.org/software/LinguaFranca-Italic.woff) format('woff');
+}
+@font-face {
+  font-family: "Lingua Franca";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Lingua Franca Bold"), local("LinguaFranca-Bold"), url(http://andreas.nolda.org/software/LinguaFranca-Bold.woff) format('woff');
+}
+@font-face {
+  font-family: "Lingua Franca";
+  font-style: italic;
+  font-weight: 700;
+  src: local("Lingua Franca Bold Italic"), local("LinguaFranca-BoldItalic"), url(http://andreas.nolda.org/software/LinguaFranca-BoldItalic.woff) format('woff');
+}
+
+body {
+  font-family: "Lingua Franca", serif;
+  font-feature-settings: "liga", "pnum", "ss01";
+  -moz-font-feature-settings: "liga", "pnum", "ss01";
+  -ms-font-feature-settings: "liga", "pnum", "ss01";
+  -webkit-font-feature-settings: "liga", "pnum", "ss01";
+}

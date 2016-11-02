@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'grobedeutschmeister';
+    src: url('grobe-deutschmeister.eot');
+    src: url('grobe-deutschmeister.eot?#iefix') format('embedded-opentype'),
+         url('grobe-deutschmeister.woff') format('woff'),
+         url('grobe-deutschmeister.ttf') format('truetype'),
+         url('grobe-deutschmeister.svg#grobedeutschmeister') format('svg');
+}
+
