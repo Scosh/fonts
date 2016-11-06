@@ -6,6 +6,7 @@ I'm a linguistics student, so sometimes I need to type strange characters for my
 * Andika
 * Deja Vu Sans
 * Source Sans Pro
+* PT Sans
 
 #### Serif
 * Charis SIL
@@ -14,6 +15,11 @@ I'm a linguistics student, so sometimes I need to type strange characters for my
 * Heuristica
 * Junicode
 * Lingua Franca
+* PT Serif
+
+#### Monospace
+* Source Code Pro
+* PT Mono
 
 My personal favourites are Source Sans Pro for everything sans and Gentium Plus for serif situations. Lingua Franca isn't quite as pretty, but comes with italics and bold faces, unlike the extended version of Gentium unfortunately. So sometimes Lingua Franca is more convenient.
 
