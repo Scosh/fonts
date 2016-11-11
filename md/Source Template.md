@@ -2,11 +2,12 @@
 *image [credit]()*
 
 # Font Name
-*by* Foundry/Designer for Commissioner
+*by* Foundry/Designer (for Commissioner)
 
 Description?
+Information about what languages are supported.
 
-![specimen](https://github.com/Scosh/fonts/blob/master/typographic-specimen-prototype.png)
+![specimen](https://github.com/Scosh/fonts/blob/master/images/typographic-specimen-prototype.png)
 The specimen should contain:
 - the Latin Alphabet (for now)
 - Numbers

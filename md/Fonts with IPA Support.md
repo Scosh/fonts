@@ -1,6 +1,6 @@
 ## Fonts that Have IPA Characters
 
-I'm a linguistics student, so sometimes I need to type strange characters for my homework. This is a quick and dirty list — created mostly for myself and my friends — of fonts in this repository that come with support for the special characters and diacritics of the [International Phonetic Alphabet](http://bit.ly/2bTJT70).
+I'm a Linguistics student, so sometimes I need to type strange characters for my homework. This is a quick and dirty list — created mostly for myself and my friends — of fonts in this repository that come with support for the special characters and diacritics of the [International Phonetic Alphabet](http://bit.ly/2bTJT70).
 
 #### Sans-Serif
 * Andika
