@@ -22,7 +22,7 @@ If you're on Linux and fancy yourself a little more experienced, you might want 
 Here's what you'll want to do if you like the sound of this:
 
 1. Clone this repository.
-2. `cd` to wherever you put the repository.
+2. `cd` to wherever you put the repository and then into the `fonts` folder.
 3. Do `make`.
 
 After your font cache is refreshed, you should be golden! Any changes made to the cloned repo will carry over to the installation directory. Now, whenever you feel like updating you can just do a `git pull origin master` inside your local copy of the repository, and get the newest fonts. You can also easily refresh your font cache with `make update-cache`. Or you can use this set-up to create your own synced collection of fonts, make a new fork, share it around, send it to NASA — whatever, man!
