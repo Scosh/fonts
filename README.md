@@ -1,3 +1,4 @@
+![cover](https://github.com/Scosh/fonts/blob/master/images/main-cover.png)
 ## Say what now?
 This is a collection of a bunch of open-source fonts aimed at designers and people who like to mess around with the typograhpy of their documents, code, website, operating systems and top-secret love letters to Ryan Gosling.
 
