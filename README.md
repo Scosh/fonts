@@ -10,16 +10,14 @@ Since then, this project has grown, both in the number of fonts it comprises as 
 
 It isn't quite there yet, but if you're interested in helping out and becoming a part of the project, have a look at **Contributing** below.
 
-These guys and gals are hosted here on Github primarily for my convenience. However, perhaps you too, dear internet person, can benefit from this repository's existence. This hand-picked selection of typefaces promises to bestow upon your system both open-source classics like the **Liberation** and **Deja Vu** fonts as well as the hip and fresh kids everyone is talking about like Mozilla's **Fira**, Adobe's **Source Sans Pro** and Intel's **Clear Sans**.
-
-There's a lot of obscurer stuff to be found here too — so why don't you take a gander, and see if this pack is to your liking!
-
 ## The Mission
 #### Quality over Quantity
-I don't want this to be another one of those ***incredible!*** font-packs with 1000 apparently ***amazing!*** ""*free fonts for your sick desings bruuu~~~!!!*", of which perhaps a handful at best are even worth earnestly considering using. Rather, I'd like this to be a valid option for anyone in need of good type that is free and easy to license. Because, among other things, that's one of the big advantages you'll have as a designer using open-source fonts: you can do pretty much anything you want with them, because their licenses are inherently laissez-faire.
+I don't want this to be another one of those ***incredible!*** font-packs with 1000 apparently ***amazing!*** "*free fonts for your sick desings bruuu~~~!!!*", of which perhaps a handful at best are really even worth considering using. Rather, I'd like this to be a valid option for anyone in need of good type that is free and easy to license. Because, among other things, that's one of the big advantages you'll have as a designer using open-source fonts: you can do pretty much anything you want with them, because their licenses are inherently laissez-faire.
 
 #### Open-Source, not Freemium
-And this is one of the big distinctions you have to bear in mind: for mostly legal but also somewhat ideological reasons, this is an assembly of fonts that come with licenses that, as far as I am aware of, allow redistribution and (usually) modicfication. As much as I'd like to, I can't and won't include things like [Fontin](http://www.exljbris.com/fontin.html) or similar gratis fonts, however beautiful they may be, because I'm simply not allowed to, and because this would go against a lot of the goals of set out for this project.
+And this is the big distinction you must bear in mind for this project: for mostly legal, but also somewhat ideological reasons, this is an assembly of fonts that come with licenses that, as far as I am aware, allow *redistribution* and (usually) *modicfication*.
+
+As much as I'd like to, I can't and won't include things like [Fontin](http://www.exljbris.com/fontin.html) or similar gratis fonts, however beautiful they may be, because I'm simply not allowed to, and because this would go against a lot of the goals that have been set out for this project.
 
 #### Free Software Classics
 This collection has become quite a varied assortment of styles and origins. If you're a designer who works with free fonts at all, you'll most likely have heard of the big names in here like Adobe's **Source Sans Pro**, Mozilla's **Fira** and perhaps even Intel's **Clear Sans**. Those are all present, but there's also a bunch of stuff here you've probably never seen before and might be quite happy to discover.
@@ -28,9 +26,6 @@ Other than these, I've also included some long-running classics the Free Softwar
 
 #### IPA Support
 Which brings me to an obscurer aspect of this project. I study [Linguistics](https://xkcd.com/1483/), so I have an esoteric interest in fonts that come with support for the special characters of the [IPA](http://bit.ly/2bTJT70). If you care about this too, check out [this Markdown document](https://github.com/Scosh/fonts/blob/master/md/Fonts%20with%20IPA%20Support.md), where I've tried to compile a list of all the fonts in this font-pack that come with a full set of IPA symbols (spoiler: not a lot).
-
-## Labelling and Naming Conventions
-Currently, the fonts are grouped into 8 unique classifications using folders. Each folder within one of these category folders contains a font family, and is labelled according to the following convention: `typeface-foundry-file_format`.
 
 ## Installation and Syncing
 #### The Easy Way: *Download, Unzip, Install*
@@ -56,6 +51,9 @@ Here's what you'll want to do if you like the sound of this:
 3. Do `make`.
 
 After your font cache is refreshed, you should be good! Any changes made to the cloned repo will carry over to the installation directory. Whenever you feel like updating you can do a `git pull origin master` inside your local copy of the repository, and get the newest fonts. You can also easily refresh your font cache with `make update-cache`. Or you can use this set-up to create your own synced collection of fonts, make a new fork, share it around, send it to NASA — whatever, man!
+
+## Labelling and Naming Conventions
+Currently, the fonts are grouped into 8 unique classifications using folders. Each folder within one of these category folders contains a font family, and is labelled according to the following convention: `typeface-foundry-file_format`.
 
 ## Contributing
 There are two main areas I need help with right now: … (add)
