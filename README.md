@@ -1,4 +1,4 @@
-![main-cover](https://github.com/Scosh/fonts/blob/master/images/main-cover.png)
+![main-cover](https://github.com/Scosh/fonts/blob/master/images/main-cover-alt.png)
 ## Say what now?
 This is a collection of a bunch of open-source fonts aimed at designers and people who like to mess around with the typograhpy of their documents, code, website, operating systems and top-secret love letters to Ryan Gosling.
 
@@ -10,7 +10,7 @@ Since then, this project has grown, both in terms of the number of fonts it comp
 
 It isn't quite there *yet*, but if you're interested in helping out and improving the project, have a look at **Contributing** below.
 
-![mission-cover](https://github.com/Scosh/fonts/blob/master/images/mission-cover.png)
+![mission-cover](https://github.com/Scosh/fonts/blob/master/images/mission-cover-alt.png)
 ## The Mission
 #### Quality over Quantity
 I don't want this to be another one of those ***incredible!*** font-packs with 1000 apparently ***amazing!*** "*free fonts for your sick desings bruuu~~~!!!*", of which perhaps a handful at best are really even worth considering using. Rather, I'd like this to be a valid option for anyone in need of good type that is free and easy to license. Because, among other things, that's one of the big advantages you'll have as a designer using open-source fonts: you can do pretty much anything you want with them, because their licenses are inherently laissez-faire.
@@ -28,7 +28,7 @@ Other than these, I've also included some long-running classics the Free Softwar
 #### IPA Support
 Which brings me to an obscurer aspect of this project. I study [Linguistics](https://xkcd.com/1483/), so I have an esoteric interest in fonts that come with support for the special characters of the [IPA](http://bit.ly/2bTJT70). If you care about this too, check out [this Markdown document](https://github.com/Scosh/fonts/blob/master/md/Fonts%20with%20IPA%20Support.md), where I've tried to compile a list of all the fonts in this font-pack that come with a full set of IPA symbols (spoiler: not a lot).
 
-![install-cover](https://github.com/Scosh/fonts/blob/master/images/install-cover.png)
+![install-cover](https://github.com/Scosh/fonts/blob/master/images/install-cover-alt.png)
 ## Installation and Syncing
 #### The Easy Way: *Download, Unzip, Install*
 Simply click on the big green `Clone or download` button on the top-right of this repository and choose `Download ZIP`. Once your download is done, unzip the archive and copy the `fonts` folder into wherever your operating system wants fonts to go.
@@ -54,13 +54,13 @@ Here's what you'll want to do if you like the sound of this:
 
 After your font cache is refreshed, you should be good! Any changes made to the cloned repo will carry over to the installation directory. Whenever you feel like updating you can do a `git pull origin master` inside your local copy of the repository, and get the newest fonts. You can also easily refresh your font cache with `make update-cache`. Or you can use this set-up to create your own synced collection of fonts, make a new fork, share it around, send it to NASA — whatever, man!
 
-![label-cover](https://github.com/Scosh/fonts/blob/master/images/label-cover.png)
+![label-cover](https://github.com/Scosh/fonts/blob/master/images/label-cover-alt.png)
 ## Labelling and Naming Conventions
 Currently, the fonts are grouped into 8 unique classifications using folders. Each folder within one of these category folders contains a font family, and is labelled according to the following convention:
 ```
 typeface-foundry-file_format.
 ```
-![contribute-cover](https://github.com/Scosh/fonts/blob/master/images/contribute-cover.png)
+![contribute-cover](https://github.com/Scosh/fonts/blob/master/images/contribute-cover-alt.png)
 ## Contributing
 There are two main areas I need help with right now: … (add)
 
