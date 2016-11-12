@@ -5,7 +5,9 @@ I'm a Linguistics student, so sometimes I need to type strange characters for my
 #### Sans-Serif
 * Andika
 * Deja Vu Sans
-* Source Sans Pro
+* Fira Sans (doesn't seem to support tone bars?)
+* Liberation Sans
+* Source Sans Pro (doesn't seem to support tone bars?)
 * PT Sans
 
 #### Serif
@@ -14,12 +16,15 @@ I'm a Linguistics student, so sometimes I need to type strange characters for my
 * Gentium Plus
 * Heuristica
 * Junicode
+* Liberation Serif
 * Lingua Franca
 * PT Serif
 
 #### Monospace
-* Source Code Pro
+* Fira Mono (doesn't seem to support tone bars?)
+* Liberation Mono
 * PT Mono
+* Source Code Pro
 
 My personal favourites are Source Sans Pro for everything sans and Gentium Plus for serif situations. Lingua Franca isn't quite as pretty, but comes with italics and bold faces, unlike the extended version of Gentium unfortunately. So sometimes Lingua Franca is more convenient.
 
