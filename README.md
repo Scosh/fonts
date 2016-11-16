@@ -64,7 +64,7 @@ typeface-foundry-file_format.
 ## Contributing
 There are two main areas I need help with right now: … (add)
 
-![ryan_bw-cover](https://github.com/Scosh/fonts/blob/master/images/ryan-cover.png)
+![ryan_bw-cover](https://github.com/Scosh/fonts/blob/master/images/ryan_bw-cover.png)
 ## Credits and Disclaimer
 - [Joshua Scott | Scosh](https://github.com/Scosh): *curation*
 - [Arne Dußin | LordSentox](https://github.com/LordSentox): *coding*
