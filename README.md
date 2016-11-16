@@ -2,9 +2,9 @@
 ## Say what now?
 This is a collection of a bunch of open-source fonts aimed at designers and people who like to mess around with the typograhpy of their documents, code, website, operating systems and top-secret love letters to Ryan Gosling.
 
-These are generally fonts that I think are pretty, well developed and/or useful, and which I have personally used frequently in my own designs over the years.
+These are generally fonts that I think are pretty, well developed and handy, and which I have personally used frequently in my own designs over the years.
 
-All of this really started when friends became interested in my collection of free fonts, and so, when I eventually got tired of moving my fonts around computers, I made this git repo to make that process easier.
+All of this really started when friends became interested in my collection of free fonts, and so, when I eventually got tired of moving those fonts around computers, I made a git repo to make that process easier.
 
 Since then, this project has grown, both in terms of the number of fonts it comprises, as well as in its scope. I've shifted my efforts completely to fully open-source fonts (more on that below), and have begun turning this into a project that doesn't just assemble fonts, but also documents and presents them using real example designs made using the various fonts.
 

@@ -26,7 +26,7 @@ I'm a Linguistics student, so sometimes I need to type strange characters for my
 * PT Mono
 * Source Code Pro
 
-My personal favourites are Source Sans Pro for everything sans and Gentium Plus for serif situations. Lingua Franca isn't quite as pretty, but comes with italics and bold faces, unlike the extended version of Gentium unfortunately. So sometimes Lingua Franca is more convenient.
+My personal favourites are Source Sans Pro for everything sans and Gentium Plus for serif situations. Lingua Franca isn't quite as pretty, but comes with a bold face, unlike the extended version of Gentium unfortunately. So sometimes Lingua Franca is more convenient.
 
 I've also included the Gentium Basic fonts in this package though. So a possible workaround is for you to use Gentium Basic as the primary typeface in your essay and switch to Gentium Plus whenever you need to type IPA symbols. Kind of silly and annoying… I know, and I haven't tried it yet myself, so I don't know how consistent it looks, but perhaps worth a shot.
 
