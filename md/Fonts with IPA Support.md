@@ -37,4 +37,4 @@ I'm also gonna use this chance to reveal the not-so-secret crush I have for SIL 
 
 *flutters and faints in adoration*
 
-If you think of any others in here that I might have missed, go ahead and open an issue
+If you can think of or stumble across any others in here that I might have missed, go ahead and [open an issue](https://github.com/Scosh/fonts/issues)!

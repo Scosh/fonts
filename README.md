@@ -69,6 +69,12 @@ There are two main areas I need help with right now: … (add)
 - [Joshua Scott | Scosh](https://github.com/Scosh): *curation*
 - [Arne Dußin | LordSentox](https://github.com/LordSentox): *coding*
 
+Fonts used in cover images:
+Sans: [Alegreya Sans](https://github.com/Scosh/fonts/tree/master/fonts/sans_serif/alegreya_sans-huerta-otf)
+Serif: [Gentium Basic](https://github.com/Scosh/fonts/tree/master/fonts/serif/gentium_basic-sil-ttf)
+Script: [League Script](https://github.com/Scosh/fonts/tree/master/fonts/script/script-league-otf)
+Icons: [FontAwesome](https://github.com/Scosh/fonts/tree/master/fonts/icon/font_awesome-otf)
+
 To be clear: I did not create any of these typefaces, I am simply a humble collector and admirer. Full credit goes to the wonderful designers and foundries who have made their painstaiking work freely available to the world. I have done my best to preserve the original copyright notices, but if you find any such information missing please go ahead and [open an issue](https://github.com/Scosh/fonts/issues) or contact me otherwise so I can fix it as quickly as possible.
 
 Most of the fonts here are available under the [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). Others will be available under various other open-source licenses. Please refer to the individual fonts for detailed licensing information.
