@@ -1,3 +1,4 @@
+![ipa-cover](https://github.com/Scosh/fonts/blob/master/images/ipa-cover.png)
 ## Fonts that Have IPA Characters
 
 I'm a Linguistics student, so sometimes I need to type strange characters for my homework. This is a quick and dirty list — created mostly for myself and my friends — of fonts in this repository that come with support for the special characters and diacritics of the [International Phonetic Alphabet](http://bit.ly/2bTJT70).
@@ -35,3 +36,5 @@ If you want to know more about the differences between Gentium Plus and Gentium 
 I'm also gonna use this chance to reveal the not-so-secret crush I have for SIL for making Gentium, the serif font that flows through my veins, and for writing the OFL… the wonderful, wonderful OFL!
 
 *flutters and faints in adoration*
+
+If you think of any others in here that I might have missed, go ahead and open an issue
