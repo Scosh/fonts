@@ -87,7 +87,7 @@ I want this project to keep growing and if you can come up with or have found an
 
 You're going to have to rely on my taste in fonts at least somewhat with this one, because ultimately, I will of course have the final say as to whether or not a particular font will be included, which is why I'd prefer you choose the issue thread option [add link again] for this one. This way, we can talk about why a certain font should or shouldn't be added. I might also decline pull requests that disregard the existing naming and sorting conventions, even if I happen to like the font. Sorry for being so anal about this… but those guidelines are there for a reason, and I'm half German, so I can't really undestand people ignoring established conventions. It's nothing personal, really.
 
-![ryan_bw-cover](https://github.com/Scosh/fonts/blob/master/images/ryan_bw-cover.png)
+![ryan_bw-cover](https://github.com/Scosh/fonts/blob/master/images/ryan-cover.png)
 ## Credits and Disclaimer
 - [Joshua Scott | Scosh](https://github.com/Scosh): *curation*
 - [Arne Dußin | LordSentox](https://github.com/LordSentox): *coding*
