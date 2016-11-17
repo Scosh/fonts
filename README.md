@@ -31,7 +31,13 @@ Which brings me to an obscurer aspect of this project. I study [Linguistics](htt
 ![install-cover](https://github.com/Scosh/fonts/blob/master/images/install-cover.png)
 ## Installation and Syncing
 #### The Easy Way: *Download, Unzip, Install*
-Simply click on the big green `Clone or download` button on the top-right of this repository and choose `Download ZIP`. Once your download is done, unzip the archive and copy the `fonts` folder into wherever your operating system wants fonts to go.
+If you just want the fonts, you can go ahead and click this handy download link, which will give you a ZIP of the contents of the `fonts` subdirectory:
+
+[Download fonts only. Gimme!](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Scosh/fonts/tree/master/fonts).
+
+Alternatively, if for instance you would like to contribute or want to be able to update this package (see *The Harder but Cooler Way* below), I'd recommend grabing the the entire repo by scrolling back up and pressing the big green `Clone or download` button to the top-right of this page and choosing `Download ZIP`.
+
+Once your download is done, unzip the archive and copy the `fonts` subfolder into wherever your operating system wants fonts to go.
 
 On Windows that should be `C:\Windows\Fonts`. However, by default, Windows doesn't allow you to just drag font files into this folder. You'll need to select or group-select the fonts individually in their folders, right-click on them and select 'Install fonts' or something along those lines… And I'm not even sure if that contextual right-click command is just a new thing in Windows 10, or if it's also already there in Windows 7. I'm sorry… I'm not a Windows expert, and personally, I think this is a super dumb and annoying way to handle font installation when dealing with large font-packs like this one — so if there's any other, easier and faster way of doing this that you are familiar with, please let me know!
 
@@ -41,28 +47,47 @@ And on Linux I'd recommend `/usr/share/fonts` or `~/.local/share/fonts/` — but
 
 Windows and OSX usually update their font caches automagically, but for Linux it's generally good practice to perform an `fc-cache -fv` in the terminal once you're done copying the files.
 
-#### The Harder but cooler Way: *Sync 'Em Up!* (Linux only, OSX if you know what you're doing)
-If you're on Linux and fancy yourself a little more experienced, you might want to clone this repository and run the handy *Makefile* (kindly provided by [a good friend of mine](https://github.com/LordSentox)) rather than downloading the fonts conventionally. The advantage to this method is that you'll be able to easily update your local copy of the collection whenever new fonts are added. The downside is that you will obviously have to keep the cloned repository around for this to work, and, depending on how you organize your files, that may not be the way you like to roll.
+#### The Harder but cooler Way: *Sync 'Em Up!*
+If you're on Linux and fancy yourself a little more experienced, you might want to clone this repository and run the handy *Makefile* (kindly provided by [my incredibly sexy and hip friend](https://github.com/LordSentox)) rather than downloading the fonts conventionally. The advantage to this method is that you'll be able to easily update your local copy of the collection whenever new fonts are added.
+
+You can of course still do `git clone`, `git pull` and all that if you're running Windows or OSX, but the Makefile is pretty much a Linux only affair. [OSX apparently too, if you know what you're doing](http://stackoverflow.com/questions/1469994/using-make-on-osx), but you're going to have to edit a few lines of the Makefile because they won't translate over directly to Unix.
 
 What the Makefile does, is create a symbolic link between the contents of the cloned repository and the installation directory (`/usr/share/fonts/git` by default), and then it updates the font cache for you.
 
-Here's what you'll want to do if you like the sound of this:
+Here's what you'll want to do if you like the sound of all this:
 
 1. Clone this repository.
-2. `cd` to wherever you put the repository and then into the `fonts` folder.
+2. `cd` to wherever you put the repository and then into the `fonts` subfolder.
 3. Do `make`.
 
 After your font cache is refreshed, you should be good! Any changes made to the cloned repo will carry over to the installation directory. Whenever you feel like updating you can do a `git pull origin master` inside your local copy of the repository, and get the newest fonts. You can also easily refresh your font cache with `make update-cache`. Or you can use this set-up to create your own synced collection of fonts, make a new fork, share it around, send it to NASA — whatever, man!
 
 ![label-cover](https://github.com/Scosh/fonts/blob/master/images/label-cover.png)
 ## Labelling and Naming Conventions
-Currently, the fonts are grouped into 8 unique classifications using folders. Each folder within one of these category folders contains a font family, and is labelled according to the following convention:
+Currently, the fonts are grouped into 8 unique classifications using folders. Each folder within one of these category folders contains a font family, and is labelled according to the following convention, where information in round brackets () is optional:
 ```
-typeface-foundry-file_format.
+typeface-(foundry)-file_format.
 ```
+In some cases, webfont (woff, eot) and/or source (svg) files may also be included, but only either .ttf or .otf desktop fonts, which is what the `file_format` part always reflects.
+
 ![contribute-cover](https://github.com/Scosh/fonts/blob/master/images/contribute-cover.png)
 ## Contributing
-There are two main areas I need help with right now: … (add)
+There are three things I need help with right now:
+
+#### Specimen Artwork
+Contributing artwork made using any of these fonts. If you have anything that you've made with one or more of the fonts present in this repository and you're willing to give it away to be shared around or even just to provide an image link to your work, I want it! You can submit work either by creating a [pull request](https://github.com/Scosh/fonts/pulls) with your art added to the [images](https://github.com/Scosh/fonts/tree/master/images) subfolder or by posting a comment on the 'Specimen Artwork' issue thread [create issue and add link].
+
+I want people to browse through this repository, checking out all the different fonts and getting excited about using them! And I would like there to be a varied assortment of images of those fonts in use for them to look at, much like there is on [MyFonts](http://www.myfonts.com/fonts/mostardesign/sofia-pro/) or [The League of Moveable Type](https://www.theleagueofmoveabletype.com/ostrich-sans).
+
+Of course, a proper, full website interface for you to look at the fonts would be even better — but woah, baby steps, alright muchacho?
+
+#### Documentation and Descriptions
+The dream is that eventually every font family will come with a readme.md that doesn't just display the specimens, but also gives a brief description of the typeface and names its designer, where it was downloaded, what languages are supported, etc. If you'd like to contribute a full description or an edit of an existing one, [make a pull request](https://github.com/Scosh/fonts/pulls) and please adhear to the following styleguide/template I've put together [add link].
+
+#### New Font Suggestions
+I want this project to keep growing and if you can come up with or have found an open-source font that isn't in here yet and you think absolutely needs to be, please go ahead and recommend it! I'm always open to suggestions and thrilled to discover new hidden gems. Again, you can do so either by posting a comment with your suggestion(s) in the 'New Font Suggestions' issue thread [create issue and add link] or with a [pull request](https://github.com/Scosh/fonts/pulls) that adds the new font to the appropriate font style folder. E.g. a sans font should always go into the [sans_serif directory](https://github.com/Scosh/fonts/tree/master/fonts/sans_serif). Please also try to follow the naming guidelines described in *Labelling and Naming Conventions* above.
+
+You're going to have to rely on my taste in fonts at least somewhat with this one, because ultimately, I will of course have the final say as to whether or not a particular font will be included, which is why I'd prefer you choose the issue thread option [add link again] for this one. This way, we can talk about why a certain font should or shouldn't be added. I might also decline pull requests that disregard the existing naming and sorting conventions, even if I happen to like the font. Sorry for being so anal about this… but those guidelines are there for a reason, and I'm half German, so I can't really undestand people ignoring established conventions. It's nothing personal, really.
 
 ![ryan_bw-cover](https://github.com/Scosh/fonts/blob/master/images/ryan_bw-cover.png)
 ## Credits and Disclaimer
