@@ -31,11 +31,9 @@ Which brings me to an obscurer aspect of this project. I study [Linguistics](htt
 ![install-cover](https://github.com/Scosh/fonts/blob/master/images/install-cover.png)
 ## Installation and Syncing
 #### The Easy Way: *Download, Unzip, Install*
-If you just want the fonts, you can go ahead and click this handy download link, which will give you a ZIP of the contents of the `fonts` subdirectory:
+Either scroll back up and press the big, green `Clone or download` button to the top-right of this page and choose `Download ZIP`, or click the following link:
 
-[Download fonts only. Gimme!](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Scosh/fonts/tree/master/fonts).
-
-Alternatively, if for instance you would like to contribute or want to be able to update this package (see *The Harder but Cooler Way* below), I'd recommend grabing the the entire repo by scrolling back up and pressing the big green `Clone or download` button to the top-right of this page and choosing `Download ZIP`.
+[Download as ZIP](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Scosh/fonts).
 
 Once your download is done, unzip the archive and copy the `fonts` subfolder into wherever your operating system wants fonts to go.
 
@@ -82,7 +80,7 @@ I want people to browse through this repository, checking out all the different 
 Of course, a proper, full website interface for you to look at the fonts would be even better — but woah, baby steps, alright muchacho?
 
 #### Documentation and Descriptions
-The dream is that eventually every font family will come with a readme.md that doesn't just display the specimens, but also gives a brief description of the typeface and names its designer, where it was downloaded, what languages are supported, etc. If you'd like to contribute a full description or an edit of an existing one, [make a pull request](https://github.com/Scosh/fonts/pulls) and please adhear to the following styleguide/template I've put together [add link].
+The dream is that eventually every font family will come with a readme.md that doesn't just display the specimens, but also gives a brief description of the typeface and names its designer, where it was downloaded, what languages are supported, etc. If you'd like to contribute a full description or an edit of an existing one, [make a pull request](https://github.com/Scosh/fonts/pulls) and please adhere to the following styleguide/template I've put together [add link].
 
 #### New Font Suggestions
 I want this project to keep growing and if you can come up with or have found an open-source font that isn't in here yet and you think absolutely needs to be, please go ahead and recommend it! I'm always open to suggestions and thrilled to discover new hidden gems. Again, you can do so either by posting a comment with your suggestion(s) in the 'New Font Suggestions' issue thread [create issue and add link] or with a [pull request](https://github.com/Scosh/fonts/pulls) that adds the new font to the appropriate font style folder. E.g. a sans font should always go into the [sans_serif directory](https://github.com/Scosh/fonts/tree/master/fonts/sans_serif). Please also try to follow the naming guidelines described in *Labelling and Naming Conventions* above.
