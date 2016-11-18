@@ -35,6 +35,6 @@ If you want to know more about the differences between Gentium Plus and Gentium 
 
 I'm also gonna use this chance to reveal the not-so-secret crush I have for SIL for making Gentium, the serif font that flows through my veins, and for writing the OFL… the wonderful, wonderful OFL!
 
-*flutters and faints in adoration*
+*flutters and faints in adoration* :revolving_hearts:
 
 If you can think of or stumble across any others in here that I might have missed, go ahead and [open an issue](https://github.com/Scosh/fonts/issues)!
