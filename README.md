@@ -72,17 +72,17 @@ In some cases, webfont (woff, eot) and/or source (svg) files may also be include
 ## Contributing
 There are three things I need help with right now:
 
-#### :one: Specimen Artwork
+#### Specimen Artwork
 Contributing artwork made using any of these fonts. If you have anything that you've made with one or more of the fonts present in this repository and you're willing to give it away to be shared around or even just to provide an image link to your work, I want it! You can submit work either by creating a [pull request](https://github.com/Scosh/fonts/pulls) with your art added to the [images](https://github.com/Scosh/fonts/tree/master/images) subfolder or by posting a comment on the 'Specimen Artwork' issue thread [create issue and add link].
 
 I want people to browse through this repository, checking out all the different fonts and getting excited about using them! And I would like there to be a varied assortment of images of those fonts in use for them to look at, much like there is on [MyFonts](http://www.myfonts.com/fonts/mostardesign/sofia-pro/) or [The League of Moveable Type](https://www.theleagueofmoveabletype.com/ostrich-sans).
 
 Of course, a proper, full website interface for you to look at the fonts would be even better — but woah, baby steps, alright muchacho?
 
-#### :two: Documentation and Descriptions
+#### Documentation and Descriptions
 The dream is that eventually every font family will come with a readme.md that doesn't just display the specimens, but also gives a brief description of the typeface and names its designer, where it was downloaded, what languages are supported, etc. If you'd like to contribute a full description or an edit of an existing one, [make a pull request](https://github.com/Scosh/fonts/pulls) and please adhere to the following styleguide/template I've put together [add link].
 
-#### :three: New Font Suggestions
+#### New Font Suggestions
 I want this project to keep growing and if you can come up with or have found an open-source font that isn't in here yet and you think absolutely needs to be, please go ahead and recommend it! I'm always open to suggestions and thrilled to discover new hidden gems. Again, you can do so either by posting a comment with your suggestion(s) in the 'New Font Suggestions' issue thread [create issue and add link] or with a [pull request](https://github.com/Scosh/fonts/pulls) that adds the new font to the appropriate font style folder. E.g. a sans font should always go into the [sans_serif directory](https://github.com/Scosh/fonts/tree/master/fonts/sans_serif). Please also try to follow the naming guidelines described in **Labelling and Naming Conventions** above.
 
 You're going to have to rely on my taste in fonts at least somewhat, because ultimately, I will of course have the final say as to whether or not a particular font will be included, which is why I'd prefer you choose the issue thread option [add link again] for this one. This way, we can talk about why a certain font should or shouldn't be added. I might also decline pull requests that disregard the existing naming and sorting conventions, even if I happen to like the font. Sorry for being so anal about this… but those guidelines are there for a reason, and I'm half German, so I can't really undestand people ignoring established conventions. It's nothing personal, honest. :stuck_out_tongue_winking_eye:
