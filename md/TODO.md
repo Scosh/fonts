@@ -8,6 +8,8 @@
 - set up (ideally automatically) updating git repositories for viable fonts in the master branch, so font files are as recent as possible
 - find a way to get the makefile working on macOS (and if possible, Windows)
 - DELETE still remaining duplicate font files
+- update README generally, and with: "the clone/pull will take a while …" + eventually "macOS makefile guide"
+- put Makefile(s) in a separate folder and clean up
 
 ### Doing
 - include specimen images & SOURCE.MD readmes
@@ -18,3 +20,6 @@
 - Reverse labelling convention: `typeface-foundry-format`
 - Test makefile
 - clean project to only include open source typefaces
+
+### New Font Suggestions
+- include Charis SIL
