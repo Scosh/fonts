@@ -1,2 +1,13 @@
 # Proprietary fonts are not to be shared. Sorry.
 proprietary/*
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
