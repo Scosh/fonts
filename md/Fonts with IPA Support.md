@@ -9,7 +9,7 @@ I'm a Linguistics student, so sometimes I need to type strange characters for my
 * Fira Sans (doesn't seem to support tone bars?)
 * Liberation Sans
 * Source Sans Pro (doesn't seem to support tone bars?)
-* PT Sans
+* Open Sans
 
 #### Serif
 * Charis SIL
