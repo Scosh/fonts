@@ -21,9 +21,8 @@ I'm a Linguistics student, so sometimes I need to type strange characters for my
 * Lingua Franca
 
 #### Monospace
-* Fira Mono (doesn't seem to support tone bars?)
 * Liberation Mono
-* Source Code Pro
+
 
 My personal favourites are Source Sans Pro for everything sans and Gentium Plus for serif situations. Lingua Franca isn't quite as pretty, but comes with a bold face, unlike the extended version of Gentium unfortunately. So sometimes Lingua Franca is more convenient.
 
